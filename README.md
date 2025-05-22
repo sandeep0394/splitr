@@ -55,7 +55,7 @@
 5. **Run the development server:**
    bash
    npm run dev
-   # or
+   or
    yarn dev
    
 6. To run backend sever
