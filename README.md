@@ -36,12 +36,13 @@
 
 2. **Install dependencies:**
    bash
+   
    npm install
-   # or
+   or
    yarn install
    
 
-3. **Configure environment variables:**
+4. **Configure environment variables:**
 
    Copy `.env.example` to `.env.local` and add your Clerk and Convex credentials.
 
@@ -51,18 +52,18 @@
    CONVEX_URL=your-convex-url
    
 
-4. **Run the development server:**
+5. **Run the development server:**
    bash
    npm run dev
    # or
    yarn dev
    
-5. To run backend sever
+6. To run backend sever
    npx convex dev
 
-6. Access the app at [http://localhost:3000](http://localhost:3000).
+7. Access the app at [http://localhost:3000](http://localhost:3000).
 
-7. Actually to install few requirements the react version does not allow so you need to give 1 space and type --legacy-peer-deps
+8. Actually to install few requirements the react version does not allow so you need to give 1 space and type --legacy-peer-deps
 
 ## 🗂️ Project Structure
 
